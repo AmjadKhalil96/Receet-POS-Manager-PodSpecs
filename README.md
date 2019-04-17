@@ -1,0 +1,1 @@
+# Receet-POS-Manager-PodSpecs
